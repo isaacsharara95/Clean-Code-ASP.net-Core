@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isaacsharara95
+- 👋 Hi, I’m Isaac
 - 👀 I’m interested in Java and C# programing
 - 🌱 I’m currently learning System Development
 - 💞️ I’m looking to collaborate on APIs
